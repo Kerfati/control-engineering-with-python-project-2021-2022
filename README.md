@@ -13,13 +13,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: KERFATI Ayat
 
-  - Student 2: ❔
+  - Student 2: KAHHOULI Nour El Houda
 
-  - Student 3: ❔
+  - Student 3: KADJAR Zineb
 
-  - Student 4: ❔
+  - Student 4: HANINI Hammou
 
 ## Getting Started
 
